@@ -1,7 +1,8 @@
 # Nike Website Landing Page.
-## Tailwind CSS, React
+## Tailwind CSS, React 
 
+See [JavaScript Mastery Video][1] and [Adrian Hajdin's GitHub][2] for more details.
 
-[![JavaScript Mastery Video](http://img.youtube.com/vi/tS7upsfuxmo/0.jpg)](https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery "JavaScript Mastery Video")  
+[1]: https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery "JavaScript Mastery Video"
+[2]: https://github.com/adrianhajdin "Adrian Hajdin's GitHub"
 
-Original repository, visit [Adrian Hajdin's GitHub](https://github.com/adrianhajdin)
